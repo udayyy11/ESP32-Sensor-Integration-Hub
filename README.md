@@ -16,10 +16,6 @@ As new sensors are integrated, they will be added to this list.
 | :--------------------------- | :---------------- | :---------------------------------------- | :------------------------------------------------ |
 | IR Obstacle Avoidance Sensor | Digital           | Detects the presence of nearby objects.   | [Go to Project](./01-IR-Obstacle-Sensor/)         |
 | DHT11 / DHT22                | Digital (One-Wire) | Measures temperature and humidity.        | `(Coming Soon)`                                   |
-| HC-SR04 Ultrasonic Sensor    | Digital           | Measures distance using sound waves.      | `(Coming Soon)`                                   |
-| PIR Motion Sensor            | Digital           | Detects motion of warm bodies.            | `(Coming Soon)`                                   |
-| LDR Photoresistor            | Analog            | Measures ambient light intensity.         | `(Coming Soon)`                                   |
-| _(Add your next sensor here)_ | _(Type)_          | _(Brief description)_                     | _(Link to the new folder)_                         |
 
 ## Repository Structure
 
